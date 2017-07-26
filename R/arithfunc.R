@@ -25,7 +25,7 @@ mul <- function(a, b) {
 }
 
 
-#' Title
+#' divide 2 numbers
 #'
 #' @param a
 #' @param b
